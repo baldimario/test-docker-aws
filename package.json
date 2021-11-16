@@ -1,0 +1,24 @@
+{
+  "name": "test-docker-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:ci": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldimario/test-docker-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baldimario/test-docker-aws/issues"
+  },
+  "homepage": "https://github.com/baldimario/test-docker-aws#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.3.1"
+  }
+}
